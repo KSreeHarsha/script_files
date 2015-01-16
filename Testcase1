@@ -1,0 +1,6 @@
+Open a file
+seeks to rand line
+read the line and verify written line
+seek to the end of line 
+write line at the end of file 
+close file
